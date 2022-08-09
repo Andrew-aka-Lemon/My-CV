@@ -1,0 +1,212 @@
+body    {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+}
+
+/* main styles */
+
+.main_box  {
+    width: 1200px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 0 auto;
+}
+
+.right_box {
+    background-color: #ffffff;
+    padding: 105px 90px;
+    /* padding-top: 105px;
+    padding-left: 90px; */
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.about_user {
+    margin-bottom: 40px;
+}
+
+.main_position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.person_name {
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.about_person {
+    margin-top: 25px;
+    width: 400px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.projects {
+    margin-bottom: 50px;
+}
+
+.main_header {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.small_header,
+.small_header_accent,
+.univer {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.list_projects {
+    padding: 0;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.list_projects_items {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.list_projects_items_text,
+.proj_tech
+ {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.list_projects_items_text{
+    margin-left: 15px;
+}
+
+.work_exp {
+    margin-bottom: 45px;
+}
+
+.small_header_accent {
+    color: #FB6D3A;
+}
+
+.work_exp_period1 {
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.work_exp_list1 {
+    padding: 0px;
+    margin-left: 15px;
+    width: 510px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;  
+    color: #595959;
+}
+
+.company1 {
+    margin-top: 10px;
+}
+
+.univer {
+    color: #FB6D3A;
+}
+
+.facultet {
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.sidebar {
+    padding-top: 40px;
+    width: 370px;
+    background-color: #1E2939;
+    color: #ffffff;
+}
+.photo {
+    width: 370px;
+    margin-bottom: 40px;
+}
+
+.contacts, .tech_skills, .soft_skills
+{
+    /* margin-top: 40px; */
+    margin-left: 40px;
+}
+
+/* head of blocks */
+.sidebar_head {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.cont_letter {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+}
+
+/* user's number and mail */
+.number{
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    opacity: 0.5;
+}
+
+.contact_line{
+    margin-bottom: -15px;
+}
+
+.tech_skills {
+    margin-top: 50px;
+}
+
+.list_tech_skills {
+    color: #FB6D3A;
+    padding: 0px;
+    padding-left: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.list_tech_skills_text {
+    color: #ffffff;
+}
+.soft_skills {
+    margin-top: 45px;
+}
